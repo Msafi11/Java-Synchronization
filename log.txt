@@ -1,0 +1,16 @@
+a has arrived
+Connection 1:a connected
+b has arrived
+Connection 2:b connected
+c arrived and waiting
+Connection 1:a Performs online activity
+d arrived and waiting
+Connection 2:b Performs online activity
+Connection 1:ahas logged out!
+Connection 1:c connected
+Connection 2:bhas logged out!
+Connection 2:d connected
+Connection 1:c Performs online activity
+Connection 2:d Performs online activity
+Connection 1:chas logged out!
+Connection 2:dhas logged out!
